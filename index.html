@@ -1,1 +1,57 @@
-This is a test. My first GitHub commit!
+---
+layout: default
+title: "Home Page"
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    <!-- <div>{{ post.content | strip_html | truncate:150 }}</div> -->
+    <!-- <div>{{ post.content }}</div> -->
+    <div>{{ post.content | strip_html | truncate:600 }}</div>
+
+    {% comment %}
+    {{ post.content }}
+    {% endcomment %}
+
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+
+
+<div class="more-posts">
+<aside class="related">
+  <h3>More posts</h3>
+  <ul class="related-posts">
+    {% for post in paginator.posts limit:20 %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time></small>
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+</div>

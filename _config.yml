@@ -1,0 +1,45 @@
+# Permalinks
+permalink:           /:year/:month/:title
+
+# Setup
+title:               "Insert Blog Title Here"
+tagline:             ""
+url:                 https://rshivjiani.github.io
+paginate:            10
+baseurl:             ""
+analytics_id:        ""
+
+# About/contact
+author:
+  name:              "R Shivjiani"
+  url:               https://rshivjiani.github.io
+  email:             ""
+
+# Gems
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+
+
+########################
+#                      #
+# ADDED CUSTOM         #
+#                      #
+########################
+
+# List of pages
+pages_list:       
+  about: '/about'
+  archives: '/archives'
+  contact: '/contact'
+  subscribe: '/subscribe'
+
+# Fix date/time generation
+timezone: America/New_York
+
+########################
+#                      #
+#  END CUSTOM          #
+#                      #
+########################
