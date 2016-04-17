@@ -1,5 +1,6 @@
 ---
 title: "Miami Debate Preview: The How-To's and What to Expect"
+permalink: /miami-debate-preview-2016
 ---
 
 **RAHIL SHVJIANI / MARCH 10, 2016**
