@@ -1,11 +1,15 @@
 // Master CSS file
 
 .container {
-  max-width: 38rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+    max-width: 30rem;
+    margin: auto;
+    padding: 1.5rem;
+}
+
+container {
+    max-width: 3rem;
+    margin: auto;
+    padding: 1.5rem;
 }
 
 footer {
