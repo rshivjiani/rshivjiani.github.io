@@ -1,0 +1,38 @@
+// Master CSS file
+
+wrapper {
+    max-width: 30rem;
+    margin: auto;
+    padding: 1.5rem;
+}
+
+.wrapper {
+    max-width: 50rem;
+    margin: auto;
+}
+
+footer {
+  margin-bottom: 2rem;
+}
+
+article.post {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+h1.post-title {
+    margin-bottom: 0.5rem;
+}
+
+#header-menu small {
+    padding-left: 2rem;
+}
+
+time.post-date {
+    margin-bottom: 1rem;
+    display: block;
+}
+
+html {
+    font-family: sans-serif;
+}
