@@ -27,3 +27,8 @@ h1.post-title {
 #header-menu small {
     padding-left: 2rem;
 }
+
+time.post-date {
+    margin-bottom: 1rem;
+    display: block;
+}
