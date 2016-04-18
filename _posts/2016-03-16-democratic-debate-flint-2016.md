@@ -1,3 +1,7 @@
+---
+title: "Flint Michigan Democratic Debate Preview: The How-To's and What to Expect"
+layout: post
+---
 **BY: RAHIL SHIVJIANI / MAR 6TH, 2016**
 
 Tonight is the Democratic debate in Flint, Michigan. Flint, Michigan is also the place where families live on bottled water. In this article, I will list the airing info for tonight's debate, which will include channel numbers, candidates, and moderator(s). I will also talk about the key issues for tonight's debate that might be discussed.
