@@ -11,6 +11,15 @@ wrapper {
     margin: auto;
 }
 
+#header-menu a {
+    opacity: 0.5;
+}
+h3.masthead-title a {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: deepskyblue;
+}
+
 footer {
   margin-bottom: 2rem;
 }
