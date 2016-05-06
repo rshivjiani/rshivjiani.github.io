@@ -1,5 +1,6 @@
 ---
-title: Election 2016 Headquarters!
+title: "Election 2016 Headquarters!"
+layout: post
 permalink: /2016-election-hq
 ---
 
