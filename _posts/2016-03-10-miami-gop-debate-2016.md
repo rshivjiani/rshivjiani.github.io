@@ -3,8 +3,6 @@ title: "Miami Republican Debate Preview: The How-To's and What to Expect"
 layout: post
 ---
 
-**RAHIL SHVJIANI / MARCH 10, 2016**
-
 Tonight, this debate will be important for all candidates. This will the determine the face of this race. This debate is going to determine how many candidates will be in the race after next Tuesday. In this article, I will list the airing information for this debate, what question(s) are probably going to be asked, and what are we going to expect from this debate.
 
 ### INFORMATION DESK: FAST FACTS
