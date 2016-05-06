@@ -1,5 +1,5 @@
 ---
-title: "Hancy Reagan: (July 6, 1921 - March 6, 2016)"
+title: "Nancy Reagan: (July 6, 1921 - March 6, 2016)"
 layout: post
 ---
 
