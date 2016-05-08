@@ -14,11 +14,7 @@ wrapper {
 #header-menu a {
     opacity: 0.5;
 }
-h3.masthead-title a {
-    font-size: 1.7rem;
-    text-decoration: none;
-    color: #009FFF;
-}
+
 .masthead {
 margin-right: -9999rem;
 margin-left: -9999rem;
@@ -30,10 +26,19 @@ padding-bottom: 1px;
 padding-top: 1px;
 background: #353A4A;
 box-shadow: 0px 3px 3px cornflowerblue;
+
+}
+
+h3.masthead-title a {
+  font-size: 1.7rem;
+  text-decoration: none;
+  color: #009FFF;
+
 }
 
 footer {
   margin-bottom: 2rem;
+
 }
 
 article.post {
@@ -42,6 +47,18 @@ article.post {
   background: aliceblue;
   padding: 1rem;
   box-shadow: 0px 0px 5px 0px #888;
+
+}
+
+h1.post-title {
+  display: block;
+  text-decoration: none;
+  background: cornflowerblue;
+  color: white;
+  margin: -1rem;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+
 }
 
 h1.post-title a {
@@ -52,10 +69,12 @@ h1.post-title a {
   margin: -1rem;
   margin-bottom: 0.5rem;
   padding: 1rem;
+
 }
 
 #header-menu small {
     padding-left: 2rem;
+
 }
 
 time.post-date {
@@ -64,6 +83,7 @@ time.post-date {
     margin-top: 1rem;
     font-size: 1.1rem;
     color: #444;
+
 }
 
 html {
