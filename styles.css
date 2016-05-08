@@ -19,6 +19,18 @@ h3.masthead-title a {
     text-decoration: none;
     color: cornflowerblue;
 }
+.masthead {
+margin-right: -9999rem;
+margin-left: -9999rem;
+margin-bottom: 2rem;
+margin-top: -8px;
+padding-right: 9999rem;
+padding-left: 9999rem;
+padding-bottom: 1px;
+padding-top: 1px;
+background: #353A4A;
+box-shadow: 0px 3px 3px cornflowerblue;
+}
 
 footer {
   margin-bottom: 2rem;
