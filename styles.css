@@ -73,6 +73,14 @@ h1.post-title a {
 
 }
 
+h3 {
+    border-bottom: 1.5px solid deepskyblue;
+    border-top: 1.5px solid cornflowerblue;
+    padding: 7px 0px;
+    text-align: center;
+
+}
+
 #header-menu small {
     padding-left: 2rem;
 
