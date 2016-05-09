@@ -16,6 +16,7 @@ ________________________________________________________________________________
 
 
 ## REPUBLICANS
+
 ### **REPUBLICAN DEBATES**
 
 - 2015–08–06: DEBATE – 1st Republican primary debate (Fox News) *(Cleveland, Ohio)* -  **COMPLETED**
@@ -45,6 +46,7 @@ ________________________________________________________________________________
 ________________________________________________________________
 
 ## DEMOCRATS
+
 ### **DEMOCRATIC DEBATES**
 
 - 2015–10–13: DEBATE – 1st Democratic primary debate (CNN) *(Las Vegas, Nevada)* - **COMPLETED**
@@ -154,6 +156,7 @@ _________________________________________________________________
 _____________________________________
 
 ### **TOTAL DELEGATES (INCLUDING SUPERDELEGATES [D])**
+
 ##### **SOURCE: CNNPolitics.com**
 
 #### REPUBLICANS - 1, 237 needed to win
