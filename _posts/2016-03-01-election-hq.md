@@ -4,11 +4,15 @@ layout: post
 ---
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election:
-__________________________________________________________________
+
+
+________________________________________________________________________________________________________
+
 
 *I got most (85% of it :\ ) this election calendar from RaviUdeshi.com. He was kind enough to let me use his election calendar. Click [here](http://raviudeshi.com/2016/02/2016-election-calendar) for the full post from his blog.*
 
-__________________________________________________________________
+
+________________________________________________________________________________________________________
 
 
 ## REPUBLICANS
@@ -160,7 +164,10 @@ _____________________________________
 #### DEMOCRATS - 2, 383 needed to win.
 - **HILLARY CLINTON:** 1, 791 DELEGATES
 - **BERNIE SANDERS:** 1, 115 DELEGATES
-_____________________________________
+
+
+________________________________________________________________________________________________________
+
 
 ### **IMPORTANT GENERAL ELECTION DATES**
 
@@ -173,6 +180,7 @@ _____________________________________
 - 2016–10–09: DEBATE – 2nd general election debate
 - 2016–10–19: DEBATE – 3rd general election debate
 - 2016–11–08: VOTE – Election day!
+
 ___________________________________________________________________
 
 
