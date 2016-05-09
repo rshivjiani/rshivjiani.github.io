@@ -7,7 +7,9 @@ Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key
 __________________________________________________________________
 
 *I got most (85% of it :\ ) this election calendar from RaviUdeshi.com. He was kind enough to let me use his election calendar. Click [here](http://raviudeshi.com/2016/02/2016-election-calendar) for the full post from his blog.*
+
 __________________________________________________________________
+
 
 ## REPUBLICANS
 ### **REPUBLICAN DEBATES**
@@ -61,7 +63,7 @@ ________________________________________________________________
 
 _________________________________________________________________
 
-###**PRIMARY & CAUCUS DATES**
+### **PRIMARY & CAUCUS DATES**
 
 - 2016–02–01: VOTE – Iowa (first caucus!)
   - **IOWA WINNERS:** Ted Cruz (GOP), Hillary Clinton (D)
@@ -137,6 +139,7 @@ _________________________________________________________________
 - 2016–05–03: VOTE – Indiana
   - **INDIANA WINNERS:** Donald Trump (GOP), Bernie Sanders (D)
 - 2016–05–07: VOTE – Guam
+  - **GUAM WINNERS:**
 - 2016–05–10: VOTE – Nebraska (GOP), West Virginia
 - 2016–05–17: VOTE – Kentucky (D), Oregon
 - 2016–05–24: VOTE – Washington
