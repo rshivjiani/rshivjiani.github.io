@@ -15,6 +15,10 @@ wrapper {
     opacity: 0.5;
 }
 
+* {
+box-sizing: border-box;
+}
+
 .masthead {
 margin-right: -9999rem;
 margin-left: -9999rem;
