@@ -17,6 +17,12 @@ wrapper {
 
 * {
 box-sizing: border-box;
+
+}
+
+body {
+margin: 0px;
+
 }
 
 html, body {
