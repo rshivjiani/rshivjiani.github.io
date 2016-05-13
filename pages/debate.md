@@ -1,5 +1,6 @@
 ---
 title: "Miami Debate Preview: The How-To's and What to Expect"
+layout: page
 permalink: /miami-debate-preview-2016
 ---
 
