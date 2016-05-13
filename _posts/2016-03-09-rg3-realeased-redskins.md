@@ -18,4 +18,4 @@ This is going to go on for a while, though. RGIII still has to settle down after
 
 What do you think? Comment and share your thoughts!
 
-<a href="/images/rg3-image.png"><img align="center" title="RG3 Image" src="/images/rg3-image.png" alt="RG3 Image" width="307" height="300" /></a>
+<a href="/images/rg3-image.png"><img class="alignright" title="RG3 Image" src="/images/rg3-image.png" alt="RG3 Image" width="307" height="300" /></a>
