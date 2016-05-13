@@ -1,5 +1,8 @@
 // Master CSS file
 
+.alignright { float: right; }
+.alignleft { float: left; }
+
 wrapper {
     max-width: 30rem;
     margin: auto;
