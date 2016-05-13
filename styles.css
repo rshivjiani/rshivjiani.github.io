@@ -101,6 +101,14 @@ time.post-date {
     color: #444;
 }
 
+.post-meta {
+    margin-bottom: 1rem;
+    display: block;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    color: #444;
+}
+
 html {
     font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
     line-height: 1.5;
