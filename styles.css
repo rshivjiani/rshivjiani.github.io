@@ -102,11 +102,15 @@ time.post-date {
 }
 
 .post-meta {
-    margin-bottom: 1rem;
+    margin-bottom: .6rem;
     display: block;
     margin-top: 1rem;
-    font-size: 1.1rem;
-    color: #444;
+    font-size: .85rem;
+    /*color: #444;*/
+    color: rgba(0,0,0,0.6);
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid lightgray;
 }
 
 html {
