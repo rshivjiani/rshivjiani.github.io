@@ -10,7 +10,7 @@ layout: default
     <span> / </span>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
     <span> / </span>
-    <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ page.path }}">M&#8595;</a>
+    <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
   </div>
 
   {{ content }}
