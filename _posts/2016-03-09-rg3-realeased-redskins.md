@@ -1,7 +1,9 @@
 ---
-title: "Where Will He Go Next?"
+title: "Where Will He Go Next?: RG3 Released From the Redskins"
 layout: post
 ---
+
+<a href="/images/rg3-image.png"><img class="alignright" title="RG3 Image" src="/images/rg3-image.png" alt="RG3 Image" width="300" height="143" /></a>
 
 Well, it finally happened. Quarterback **Robert Griffin III** was released by the Redskins on Monday morning. This happened not long after Kirk Cousins was resigned by the Redskins. Kirk Cousins was resigned last Thursday for a whopping one year, 19.95 million dollar contract. Many people saw this coming after the season ended, but the question is, where will he go next?
 
@@ -17,3 +19,5 @@ Many teams have been reportedly interested in signing Robert Griffin III, whethe
 This is going to go on for a while, though. RGIII still has to settle down after his release. I think he would make a good quaterback with a coaching staff that let him be himself (a running quarterback) and a good team around him, especially with a good offensive line.
 
 What do you think? Comment and share your thoughts!
+
+image=
