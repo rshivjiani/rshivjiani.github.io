@@ -13,8 +13,10 @@ Many teams have been reportedly interested in signing Robert Griffin III, whethe
   - This might be a good place for RGIII. If Colin Kaepernick moves on from the 49ers after a bad season, then RGIII might try to go to San Francisco, so he can have a new, fresh start. He would have Chip Kelly as a coach, which is pretty good as he has played against him in college and the NFL. Although, if he can't get the job here, then if I'm RGIII, I wouldn't mind if I was a backup.
 - **DALLAS COWBOYS:**
   - This option has been open for a very long time. Jerry Jones has been looking for a great backup (like Kirk Cousins) for Tony Romo that can boost up their team, especially after last season's debacle. Jerry Jones has a history of welcoming backups, so going back home to Texas wouldn't be a bad place to start.
+- **CLEVELAND BROWNS**
+  - RGIII has a great opportunity here. As the Browns have no star quarterback, so here could be his time to shine. Although, the Browns don't have many weapons, so I don't know how he would do there.
 
-This is going to go on for a while, though. RGIII still has to settle down after his release. I think he would make a good quaterback with a coaching staff that let him be himself (a running quarterback) and a good team around him, especially with a good offensive line.
+This is going to go on for a while, though. RGIII still has to settle down after his release. I think he would make a good quarterback with a coaching staff that let him be himself (a running quarterback) and a good team around him, especially with a good offensive line.
 
 What do you think? Comment and share your thoughts!
 
