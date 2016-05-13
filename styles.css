@@ -4,26 +4,26 @@
 .alignleft { float: left; }
 
 wrapper {
-  max-width: 30rem;
-  margin: auto;
-  padding: 1.5rem;
+    max-width: 30rem;
+    margin: auto;
+    padding: 1.5rem;
 }
 
 .wrapper {
-  max-width: 50rem;
-  margin: auto;
+    max-width: 50rem;
+    margin: auto;
 }
 
 #header-menu a {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 * {
-  /* box-sizing: border-box; */
+/* box-sizing: border-box; */
 }
 
 body {
-  margin: 0px;
+margin: 0px;
 }
 
 html, body {
@@ -31,16 +31,16 @@ html, body {
 }
 
 .masthead {
-  margin-right: -9999rem;
-  margin-left: -9999rem;
-  margin-bottom: 2rem;
-  margin-top: -8px;
-  padding-right: 9999rem;
-  padding-left: 9999rem;
-  padding-bottom: 1px;
-  padding-top: 1px;
-  background: #353A4A;
-  box-shadow: 0px 3px 3px cornflowerblue;
+margin-right: -9999rem;
+margin-left: -9999rem;
+margin-bottom: 2rem;
+margin-top: -8px;
+padding-right: 9999rem;
+padding-left: 9999rem;
+padding-bottom: 1px;
+padding-top: 1px;
+background: #353A4A;
+box-shadow: 0px 3px 3px cornflowerblue;
 }
 
 h3.masthead-title a {
@@ -83,44 +83,39 @@ h1.post-title a {
 }
 
 h3 {
-  border-bottom: 1.5px solid deepskyblue;
-  border-top: 1.5px solid cornflowerblue;
-  padding: 7px 0px;
-  text-align: center;
+    border-bottom: 1.5px solid deepskyblue;
+    border-top: 1.5px solid cornflowerblue;
+    padding: 7px 0px;
+    text-align: center;
 }
 
 #header-menu small {
-  padding-left: 2rem;
+    padding-left: 2rem;
 }
 
 time.post-date {
-  margin-bottom: 1rem;
-  display: block;
-  margin-top: 1rem;
-  font-size: 1.1rem;
-  color: #444;
+    margin-bottom: 1rem;
+    display: block;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    color: #444;
 }
 
 .post-meta {
-  margin-bottom: .6rem;
-  display: block;
-  margin-top: 1rem;
-  font-size: .85rem;
-  /*color: #444;*/
-  color: rgba(0,0,0,0.6);
-  font-weight: 700;
-  text-transform: uppercase;
-  border-bottom: 1px solid lightgray;
-}
-
-.post-meta a {
-  text-decoration: none;
-  color: inherit;
+    margin-bottom: .6rem;
+    display: block;
+    margin-top: 1rem;
+    font-size: .85rem;
+    /*color: #444;*/
+    color: rgba(0,0,0,0.6);
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid lightgray;
 }
 
 html {
-  font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
-  line-height: 1.5;
-  background-image: url("http://rshivjiani.github.io/images/background-pattern.png");
-  /* Background pattern from subtlepatterns.com */
+    font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
+    line-height: 1.5;
+    background-image: url("http://rshivjiani.github.io/images/background-pattern.png");
+    /* Background pattern from subtlepatterns.com */
 }
