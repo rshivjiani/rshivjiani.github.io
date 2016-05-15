@@ -115,7 +115,7 @@ time.post-date {
 
 html {
     font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
-    line-height: 1.5;
+    line-height: 33px;
     background-image: url("http://rshivjiani.github.io/images/background-pattern.png");
     /* Background pattern from subtlepatterns.com */
 }
