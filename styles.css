@@ -3,6 +3,9 @@
 .alignright { float: right; }
 .alignleft { float: left; }
 
+
+// Wrapper settings
+
 wrapper {
     max-width: 30rem;
     margin: auto;
@@ -22,13 +25,19 @@ wrapper {
 /* box-sizing: border-box; */
 }
 
-body {
-margin: 0px;
-}
+
+// Body settings
 
 html, body {
   overflow-x: hidden;
 }
+
+body {
+margin: 0px;
+}
+
+
+// Masthead settings
 
 .masthead {
 margin-right: -9999rem;
@@ -61,6 +70,9 @@ article.post {
   box-shadow: 0px 0px 5px 0px #888;
 }
 
+
+// H1 Post Title
+
 h1.post-title {
   display: block;
   text-decoration: none;
@@ -82,6 +94,9 @@ h1.post-title a {
   padding: 1rem;
 }
 
+
+// H3 Settings
+
 h3 {
     border-bottom: 1.5px solid deepskyblue;
     border-top: 1.5px solid cornflowerblue;
@@ -92,6 +107,9 @@ h3 {
 #header-menu small {
     padding-left: 2rem;
 }
+
+
+// Meta Settings
 
 time.post-date {
     margin-bottom: 1rem;
@@ -112,6 +130,9 @@ time.post-date {
     text-transform: uppercase;
     border-bottom: 1px solid lightgray;
 }
+
+
+// Complete Website Settings
 
 html {
     font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
