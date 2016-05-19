@@ -104,6 +104,18 @@ h3 {
     text-align: center;
 }
 
+article h3 {
+    border-bottom: 1.5px solid deepskyblue;
+    border-top: 1.5px solid cornflowerblue;
+    padding: 7px 0px;
+    text-align: center;
+    font-size: 25px;
+    color: rgba(253, 0, 255, 0.56);
+    font-style: oblique;
+    background: rgba(16, 255, 0, 0.12);
+    font-weight: normal;
+}
+
 #header-menu small {
     padding-left: 2rem;
 }
