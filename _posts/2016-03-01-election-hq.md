@@ -3,16 +3,9 @@ title: "Election 2016 Headquarters!"
 layout: post
 ---
 
-Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election:
+Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
-
-________________________________________________________________________________________________________
-
-
-*I got most (85% of it :\ ) this election calendar from RaviUdeshi.com. He was kind enough to let me use his election calendar. Click [here](http://raviudeshi.com/2016/02/2016-election-calendar) for the full post from his blog.*
-
-
-________________________________________________________________________________________________________
+_____________________________________________________________________________________________________
 
 
 ## REPUBLICANS
@@ -201,3 +194,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 This Page will be updated as the election goes on! GO OUT and VOTE!
+
+
+
+[^1]: I got most (85% of it :\ ) this election calendar from RaviUdeshi.com. He was kind enough to let me use his election calendar. Click [here](http://raviudeshi.com/2016/02/2016-election-calendar) for the full post from his blog.
