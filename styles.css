@@ -63,6 +63,16 @@ article.post {
   box-shadow: 0px 0px 5px 0px #888;
 }
 
+hr {
+  background: none;
+  background-size: initial;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), deepskyblue, blue, deepskyblue, transparent);
+  border: 0;
+  height: 1px;
+  margin: 2.5rem auto;
+  width: 50%;
+}
+
 h1.post-title {
   display: block;
   text-decoration: none;
