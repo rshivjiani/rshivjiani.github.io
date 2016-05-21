@@ -141,21 +141,23 @@ time.post-date {
 }
 
 .pagination {
-    margin: 3rem 0;
-    overflow: hidden;
-    color: rgba(0, 124, 255, 0.23);
-    text-align: center;
-    text-decoration: none;
+  margin: 3rem 0;
+  overflow: hidden;
+  color: rgba(0, 124, 255, 0.23);
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0px 0px 8px 0px #0088FF;
+  width: 100%;
 }
 
 .pagination a {
-    text-decoration: none;
-    background: #ffe7eb;
-    color: deepskyblue
+  text-decoration: none;
+  background: #ffe7eb;
+  color: deepskyblue
 }
 
 .pagination-item {
-  width: 45.251%;
+  width: 95%;
   border-width: 1px;
   float: left;
   display: block;
@@ -166,13 +168,13 @@ time.post-date {
 }
 
 .related {
-    display: block;
-    background: aliceblue;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: .1rem;
-    padding-bottom: .1rem;
-    border: solid lightgray;
+  display: block;
+  background: aliceblue;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+  border: solid lightgray;
 }
 
 html {
