@@ -1,5 +1,6 @@
 ---
 title: Babolay
+layout: page
 permalink: /rahil
 ---
 

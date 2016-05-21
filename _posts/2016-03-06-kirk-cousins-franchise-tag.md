@@ -10,6 +10,7 @@ This year, the Redskins had a mediocre year with Kirk Cousins starting. In first
 ### THE DEAL BREAKERS
 
 After much consideration, Kirk Cousins was signed by the Redskins. There were many things that made the Redskins mind.
+
 - **DRAFT PICK:** This is a big one. The Redskins have the 21st pick in the draft this year, and it would be quite hard to get a good QB. They pick very late in the first-round, and there are so many teams that need a QB, that there won't be any QBs left to pick.
 - **THE MONOPOLY:** It is very hard to let go of Kirk Cousins right now. He has a very good career ahead of him, and the Redskins are not the only one that know that. The 'Skins know that if they let him go, other teams will offer him a great deal with much more money. With that, he might have a good squad beside him.
 - **50/50:** With this good of a quarterback, risks are worth taking. Even though he beat underachieved teams this season, he might improve over this offseason, and maybe clinch a playoff berth once again.
