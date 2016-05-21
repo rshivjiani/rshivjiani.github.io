@@ -11,6 +11,6 @@ Logan Paulsen and Ryan Clark both left and came back in the game feeling good. T
 
 Keenan Robinson: The captain of the defense got a muscle spasm from the bus crash today, and was bothering him a little during the game.
 
-The Vikings played a good game, mainly led by Teddy Bridgewater and Matt Asiata in the second half. Bridgewater finish the game with 26 comp., and 268 yards passing. Matt Asiata finished the game with fire in the second half with 3 TD's in today's game.
+The Vikings played a good game, mainly led by Teddy Bridgewater and Matt Asiata in the second half. Bridgewater finish the game with 26 comp, and 268 yards passing. Matt Asiata finished the game with fire in the second half with 3 TD's in today's game.
 
 Redskins Coach Jay Gruden still keeps RG3 as the starter, but he might be benched if he does not do good next game. This might be 2012 all over again, because they are 3-6 going in to the bye, and they could win 7 straight,  like 2012.
