@@ -1,5 +1,5 @@
 ---
-title: The Mixed Messaged Pro Day
+title: "The Mixed Messaged Pro Day"
 layout: post
 ---
 

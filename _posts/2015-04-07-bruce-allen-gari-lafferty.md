@@ -1,5 +1,5 @@
 ---
-title: Bribing?
+title: "Bribing?"
 layout: post
 ---
 

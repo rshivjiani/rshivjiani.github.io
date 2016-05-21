@@ -1,5 +1,5 @@
 ---
-title: We Have Big News!
+title: "We Have Big News!"
 layout: post
 ---
 

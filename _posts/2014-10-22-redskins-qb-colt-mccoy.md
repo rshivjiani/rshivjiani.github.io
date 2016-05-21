@@ -1,5 +1,5 @@
 ---
-title: Outrage!
+title: "Outrage!"
 layout: post
 ---
 

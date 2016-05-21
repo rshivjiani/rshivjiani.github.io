@@ -1,5 +1,5 @@
 ---
-title: Two Down, One to Go!
+title: "Two Down, One to Go!"
 layout: post
 ---
 

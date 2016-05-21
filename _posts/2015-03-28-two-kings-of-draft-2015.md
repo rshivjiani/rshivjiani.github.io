@@ -1,5 +1,5 @@
 ---
-title: Where Will The Two Kings of the Draft Lay Their Throne?
+title: "Where Will The Two Kings of the Draft Lay Their Throne?"
 layout: post
 ---
 

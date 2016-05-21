@@ -1,5 +1,5 @@
 ---
-title: The Suspect Just Got Deflated!
+title: "The Suspect Just Got Deflated!"
 layout: post
 ---
 
