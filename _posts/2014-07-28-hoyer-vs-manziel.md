@@ -1,5 +1,5 @@
 ---
-title: "Focus on Your Priorities"
+title: "Focus on Your Priorities!"
 layout: post
 ---
 
