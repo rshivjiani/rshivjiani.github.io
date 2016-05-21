@@ -148,6 +148,7 @@ time.post-date {
 .pagination a {
     text-decoration: none;
     background: #ffe7eb;
+    color: deepskyblue
 }
 
 .pagination-item {
