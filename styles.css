@@ -157,7 +157,7 @@ time.post-date {
 }
 
 .pagination-item {
-  width: 95%;
+  width: 100%;
   border-width: 1px;
   float: left;
   display: block;
