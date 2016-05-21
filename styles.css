@@ -162,6 +162,16 @@ time.post-date {
   background: #e1ffe1;
 }
 
+.related {
+    display: block;
+    background: aliceblue;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    border: solid lightgray;
+}
+
 html {
   font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
   line-height: 33px;
