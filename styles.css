@@ -138,9 +138,16 @@ time.post-date {
 }
 
 .pagination {
+    margin: 3rem 0;
     overflow: hidden;
     color: rgba(0, 124, 255, 0.23);
     text-align: center;
+    text-decoration: none;
+}
+
+.pagination a {
+    text-decoration: none;
+    background: #ffe7eb;
 }
 
 .pagination-item {
@@ -151,6 +158,7 @@ time.post-date {
   padding: 1rem;
   border: solid lightgray;
   font-size: 29px;
+  background: #e1ffe1;
 }
 
 html {
