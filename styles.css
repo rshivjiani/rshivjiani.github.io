@@ -26,6 +26,7 @@ body {
   margin: 0px;
   color: #424258;
   font-size: 17px;
+  line-height: 1.9;
 }
 
 html, body {
@@ -82,6 +83,7 @@ h1.post-title {
   margin-top: 3.5px;
   margin-bottom: 0.5rem;
   padding: 1rem;
+  line-height: 1.5;
 }
 
 h1.post-title a {
@@ -92,6 +94,7 @@ h1.post-title a {
   margin: -1rem;
   margin-bottom: -1.5rem;
   padding: 1rem;
+  line-height: 1.5;
 }
 
 h3 {
@@ -174,7 +177,7 @@ time.post-date {
 
 html {
   font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
-  line-height: 33px;
+  /*line-height: 1.5;*/
   background-image: url("http://rshivjiani.github.io/images/background-pattern.png");
   /* Background pattern from subtlepatterns.com */
 }
