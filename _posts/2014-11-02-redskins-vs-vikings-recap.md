@@ -1,5 +1,5 @@
 ---
-title: Redskins Recap: Teddy Went to the Touchdown Bridge with his Friend Matt Asiata
+title: "Redskins Recap: Teddy Went to the Touchdown Bridge with his Friend Matt Asiata"
 layout: post
 ---
 
