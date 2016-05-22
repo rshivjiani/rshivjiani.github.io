@@ -58,6 +58,7 @@ article.post {
   background: aliceblue;
   padding: 1rem;
   box-shadow: 0px 0px 5px 0px #888;
+  border-radius: 1rem;
 }
 
 h1.post-title {
