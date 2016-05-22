@@ -72,6 +72,17 @@ h1.post-title {
   line-height: 1.5;
 }
 
+h1.post-title a {
+  display: block;
+  text-decoration: none;
+  background: cornflowerblue;
+  color: white;
+  margin: -1rem;
+  margin-bottom: -1.5rem;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
 time.post-date {
   margin-bottom: 1rem;
   display: block;
@@ -90,17 +101,6 @@ time.post-date {
   font-weight: 700;
   text-transform: uppercase;
   border-bottom: 1px solid lightgray;
-}
-
-h1.post-title a {
-  display: block;
-  text-decoration: none;
-  background: cornflowerblue;
-  color: white;
-  margin: -1rem;
-  margin-bottom: -1.5rem;
-  padding: 1rem;
-  line-height: 1.5;
 }
 
 h3 {
@@ -130,6 +130,38 @@ hr {
   height: 1px;
   margin: 2.5rem auto;
   width: 50%;
+}
+
+
+article.page {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  background: aliceblue;
+  padding: 1rem;
+  box-shadow: 0px 0px 5px 0px #888;
+}
+
+h1.page-title {
+  display: block;
+  text-decoration: none;
+  background: cornflowerblue;
+  color: white;
+  margin: -1rem;
+  margin-top: 3.5px;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+h1.page-title a {
+  display: block;
+  text-decoration: none;
+  background: cornflowerblue;
+  color: white;
+  margin: -1rem;
+  margin-bottom: -1.5rem;
+  padding: 1rem;
+  line-height: 1.5;
 }
 
 #header-menu small {
