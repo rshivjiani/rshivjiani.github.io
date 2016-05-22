@@ -208,18 +208,30 @@ h1.page-title a {
 }
 
 .related-posts a {
-    text-decoration: none;
-    color: #3f3e3e;
-    font-size: 1.2rem;
+  text-decoration: none;
+  color: #3f3e3e;
+  font-size: 1.2rem;
 }
 
 .related-posts time {
-    font-size: smaller;
-    color: #ff6681;
+  font-size: smaller;
+  color: #ff6681;
 }
 
 footer {
   margin-bottom: 2rem;
+}
+
+footer.footer {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #464646;
+  line-height: 17px;
+  padding-top: 2rem;
+  margin: 3rem -9999rem 0rem;
+  padding: 1.5rem 9999rem;
+  background: rgba(0,0,10,0.9);
+  border-top: .5rem solid lightpink;
 }
 
 
