@@ -205,6 +205,17 @@ h1.page-title a {
   border: solid lightgray;
 }
 
+.related-posts a {
+    text-decoration: none;
+    color: #3f3e3e;
+    font-size: 1.2rem;
+}
+
+.related-posts time {
+    font-size: smaller;
+    color: #ff6681;
+}
+
 footer {
   margin-bottom: 2rem;
 }
