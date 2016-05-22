@@ -22,17 +22,6 @@ wrapper {
   /* box-sizing: border-box; */
 }
 
-body {
-  margin: 0px;
-  color: #424258;
-  font-size: 17px;
-  line-height: 1.7;
-}
-
-html, body {
-  overflow-x: hidden;
-}
-
 .masthead {
   margin-right: -9999rem;
   margin-left: -9999rem;
@@ -52,8 +41,15 @@ h3.masthead-title a {
   color: #009FFF;
 }
 
-footer {
-  margin-bottom: 2rem;
+body {
+  margin: 0px;
+  color: #424258;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+html, body {
+  overflow-x: hidden;
 }
 
 article.post {
@@ -62,16 +58,6 @@ article.post {
   background: aliceblue;
   padding: 1rem;
   box-shadow: 0px 0px 5px 0px #888;
-}
-
-hr {
-  background: none;
-  background-size: initial;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), deepskyblue, blue, deepskyblue, transparent);
-  border: 0;
-  height: 1px;
-  margin: 2.5rem auto;
-  width: 50%;
 }
 
 h1.post-title {
@@ -84,6 +70,26 @@ h1.post-title {
   margin-bottom: 0.5rem;
   padding: 1rem;
   line-height: 1.5;
+}
+
+time.post-date {
+  margin-bottom: 1rem;
+  display: block;
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.post-meta {
+  margin-bottom: .6rem;
+  display: block;
+  margin-top: 1rem;
+  font-size: .85rem;
+  /*color: #444;*/
+  color: rgba(0,0,0,0.6);
+  font-weight: 700;
+  text-transform: uppercase;
+  border-bottom: 1px solid lightgray;
 }
 
 h1.post-title a {
@@ -116,28 +122,18 @@ article h3 {
   font-weight: normal;
 }
 
+hr {
+  background: none;
+  background-size: initial;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), deepskyblue, blue, deepskyblue, transparent);
+  border: 0;
+  height: 1px;
+  margin: 2.5rem auto;
+  width: 50%;
+}
+
 #header-menu small {
   padding-left: 2rem;
-}
-
-time.post-date {
-  margin-bottom: 1rem;
-  display: block;
-  margin-top: 1rem;
-  font-size: 1.1rem;
-  color: #444;
-}
-
-.post-meta {
-  margin-bottom: .6rem;
-  display: block;
-  margin-top: 1rem;
-  font-size: .85rem;
-  /*color: #444;*/
-  color: rgba(0,0,0,0.6);
-  font-weight: 700;
-  text-transform: uppercase;
-  border-bottom: 1px solid lightgray;
 }
 
 .pagination {
@@ -176,6 +172,11 @@ time.post-date {
   padding-bottom: .1rem;
   border: solid lightgray;
 }
+
+footer {
+  margin-bottom: 2rem;
+}
+
 
 html {
   font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
