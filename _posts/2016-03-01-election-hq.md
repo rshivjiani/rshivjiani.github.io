@@ -5,7 +5,7 @@ layout: post
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
-_____________________________________________________________________________________________________
+___________________________________
 
 
 ## REPUBLICANS
@@ -59,8 +59,6 @@ ________________________________________________________________
 - 2016–01–25: FORUM – Iowa Democratic Town Hall (CNN) *(Des Moines, Iowa)* -  **COMPLETED**
 - 2016–02–03: FORUM – New Hampshire Democratic Town Hall (CNN) *(Derry, New Hampshire)* - **COMPLETED**
 - 2016–02–23: FORUM – South Carolina Democratic Town Hall (CNN) *(Columbia, South Carolina)* - **COMPLETED**
-
-_________________________________________________________________
 
 ### **PRIMARY & CAUCUS DATES**
 
@@ -162,8 +160,6 @@ _____________________________________
 - **BERNIE SANDERS:** 1, 115 DELEGATES
 
 
-________________________________________________________________________________________________________
-
 
 ### **IMPORTANT GENERAL ELECTION DATES**
 
@@ -176,8 +172,6 @@ ________________________________________________________________________________
 - 2016–10–09: DEBATE – 2nd general election debate
 - 2016–10–19: DEBATE – 3rd general election debate
 - 2016–11–08: VOTE – Election day!
-
-___________________________________________________________________
 
 
 ### **SOURCES AND IMPORTANT WEBSITES for ELECTION 2016**
