@@ -104,9 +104,9 @@ time.post-date {
   border-bottom: 1px solid lightgray;
 }
 
-.post-meta {
+.post-meta a {
   text-decoration: none;
-  color: inherit
+  color: inherit;
 }
 
 h3 {
