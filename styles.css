@@ -104,6 +104,11 @@ time.post-date {
   border-bottom: 1px solid lightgray;
 }
 
+.post-meta {
+  text-decoration: none;
+  color: inherit
+}
+
 h3 {
   border-bottom: 1.5px solid deepskyblue;
   border-top: 1.5px solid cornflowerblue;
