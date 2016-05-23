@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "miami debate"
 layout: page
-permalink: /about
+permalink: /miami-debate
 ---
 Hey!
 
