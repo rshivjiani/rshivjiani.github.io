@@ -38,6 +38,9 @@ pages_list:
 # Fix date/time generation
 timezone: America/New_York
 
+# Custom excerpt
+excerpt_separator: <!--more-->
+
 ########################
 #                      #
 #  END CUSTOM          #
