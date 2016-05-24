@@ -20,11 +20,17 @@ title: "The Frenzy"
       <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
     </div>
 
-<div>{{ post.excerpt }}</div>
+    <div class="post-content-truncate">
+      {% if post.content contains "<!--more-->" %}
+      {{ post.excerpt }}
+      {% else %}
+      {{ post.content | strip_html | truncatewords:100 }}
+      {% endif %}
+    </div>
 
-{% comment %}
+    {% comment %}
     <div>{{ post.content | strip_html | truncate:600 }}</div>
-{% endcomment %}
+    {% endcomment %}
 
   </article>
   {% endfor %}
