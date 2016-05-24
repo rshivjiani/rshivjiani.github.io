@@ -17,6 +17,7 @@ Tonight, this debate will be important for all candidates. This will the determi
   - **SIRIUS XM (RADIO):** CHANNEL 115
   - **SALEM RADIO NETWORK:** 870 AM
   - ***If CNN is not part of your TV subscription, don't fret. CNN will have a live stream (as always) on their website, CNN.com. [CLICK HERE](http://go.cnn.com/?stream=cnn&sr=watchHPbutton) for the live streaming website.***
+<!--more-->
 - **CANDIDATES PARTICIPATING:**
   - Mr. Donald J. Trump
   - Sen. Ted Cruz (R-TX)
