@@ -21,8 +21,7 @@ ___________________________________
 - 2015–10–28: DEBATE – 3rd Republican primary debate (CNBC) *(Boulder, Colorado)*  - **COMPLETED**
 - 2015–11–10: DEBATE – 4th Republican primary debate (Fox Business) *(Milwaukee, Wisconsin)* -  **COMPLETED**
 - 2015–12–15: DEBATE – 5th Republican primary debate (CNN) *(Las Vegas, Nevada)* -  **COMPLETED**
-- 2016–01–14: DEBATE – 6th Republican primary debate (Fox Business) *(North Charleston, South Carolina)* -  **COMPLETED**
-<!--more-->
+- 2016–01–14: DEBATE – 6th Republican primary debate (Fox Business) *(North Charleston, South Carolina)* -  **COMPLETED** <!--more-->
 - 2016–01–28: DEBATE – 7th Republican primary debate (Fox News) *(Des Moines, Iowa)* -  **COMPLETED**
 - 2016–02–06: DEBATE – 8th Republican primary debate (ABC) *(Goffstown, New Hampshire)* -  **COMPLETED**
 - 2016–02–13: DEBATE – 9th Republican primary debate (CBS) *(Greenville, South Carolina)* - **COMPLETED**
