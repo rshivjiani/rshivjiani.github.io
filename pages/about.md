@@ -8,6 +8,7 @@ permalink: /about
 ###### Previously U.S. Frenzy
 
 The Frenzy is run by Rahil Shivjiani. Even though he might seem young, he has the journalistic ability to blow many people away. He has been credited on his mature work by his friends, family, and others.
+
 ## A Note from the Founder...
 
 Howdy! My name is Rahil Shivjiani, founder and journalist of the The Frenzy. Even though The Frenzy has been THIS particular site's first name, The Frenzy was not always "The Frenzy". Let's take a step back in history (a.k.a. 2012).
