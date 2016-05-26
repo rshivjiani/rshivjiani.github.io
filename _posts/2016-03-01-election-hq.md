@@ -156,6 +156,7 @@ _____________________________________
 ### **DELEGATE COUNTER (INCLUDING SUPERDELEGATES [D])**
 
 ##### **SOURCE: CNNPolitics.com**
+
 #### Last Updated: May 26, 2016
 
 #### REPUBLICANS - 1, 237 needed to win
