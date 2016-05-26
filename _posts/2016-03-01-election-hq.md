@@ -177,6 +177,7 @@ _____________________________________
 -------------------------------
 
 ## **GENERAL ELECTION INFORMATION**
+
 ### **IMPORTANT GENERAL ELECTION DATES**
 
 - 2016–07–18: CONVENTION – Start of Republican convention (Cleveland, OH)
