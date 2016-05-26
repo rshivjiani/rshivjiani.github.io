@@ -4,6 +4,7 @@ layout: page
 permalink: /about
 ---
 # Welcome to The Frenzy!
+
 ###### Previously U.S. Frenzy
 
 The Frenzy is run by Rahil Shivjiani. Even though he might seem young, he has the journalistic ability to blow many people away. He has been credited on his mature work by his friends, family, and others.
