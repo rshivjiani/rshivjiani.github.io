@@ -7,7 +7,8 @@ Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key
 
 
 ___________________________________
-## *PRIMARY CALENDAR & INFORMATION*
+
+## **PRIMARY CALENDAR & INFORMATION**
 
 ## REPUBLICANS
 
