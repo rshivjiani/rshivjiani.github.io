@@ -14,6 +14,8 @@ ___________________________________
 
 ### **REPUBLICAN DEBATES**
 
+<!--more-->
+
 - 2015–08–06: DEBATE – 1st Republican primary debate (Fox News) *(Cleveland, Ohio)* -  **COMPLETED**
 - 2015–09–16: DEBATE – 2nd Republican primary debate (CNN) *(Simi Valley, California)* -  **COMPLETED**
 - 2015–10–28: DEBATE – 3rd Republican primary debate (CNBC) *(Boulder, Colorado)*  - **COMPLETED**
