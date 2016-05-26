@@ -153,7 +153,7 @@ ________________________________________________________________
 
 _____________________________________
 
-### **TOTAL DELEGATES (INCLUDING SUPERDELEGATES [D])**
+### **DELEGATE COUNTER (INCLUDING SUPERDELEGATES [D])**
 
 ##### **SOURCE: CNNPolitics.com**
 #### Last Updated: May 26, 2016
@@ -171,8 +171,8 @@ _____________________________________
 - <s> RAND PAUL: 1 DELEGATE </s>
 
 #### DEMOCRATS - 2, 383 needed to win.
-- **HILLARY CLINTON:** 1, 791 DELEGATES
-- **BERNIE SANDERS:** 1, 115 DELEGATES
+- **HILLARY CLINTON:** 2, 304 DELEGATES
+- **BERNIE SANDERS:** 1, 533 DELEGATES
 
 -------------------------------
 
