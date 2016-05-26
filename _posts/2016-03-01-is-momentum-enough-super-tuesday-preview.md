@@ -5,7 +5,7 @@ layout: post
 
 Throughout this election, we have seen much talk about momentum. Republican presidential candidate, Marco Rubio, and Democratic presidential candidate, Bernie Sanders, are in the center of the conversation when it comes to momentum. When I watch CNN, the panel of political commentators always talk about 'this' candidate (usually Marco Rubio) is coming out of this part of the election strong, and they might do better next time.
 
-After the Republican caucuses in Nevada, I watched the post debate show on multiple channels, including CNN and MSNBC, and I was completely baffled by what they were saying. It was preposterous that they were still talking about momentum. I mean, even though Rubio has come out of these elections at a strong third or second place, it is not turning into gold. Sometimes we have to ask ourselves, is momentum enough to win the nomination? Out of all of the four states that have already voted/caucused, Trump has one three of them. **THREE!** On top of that, the successful businessman won **45%** of Latino voters in Nevada.
+After the Republican caucuses in Nevada, <!--more--> I watched the post debate show on multiple channels, including CNN and MSNBC, and I was completely baffled by what they were saying. It was preposterous that they were still talking about momentum. I mean, even though Rubio has come out of these elections at a strong third or second place, it is not turning into gold. Sometimes we have to ask ourselves, is momentum enough to win the nomination? Out of all of the four states that have already voted/caucused, Trump has one three of them. **THREE!** On top of that, the successful businessman won **45%** of Latino voters in Nevada.
 
 
 ### "TRUMPSANITY": WHY TRUMP CAN SWEEP THE NOMINATION NOW.

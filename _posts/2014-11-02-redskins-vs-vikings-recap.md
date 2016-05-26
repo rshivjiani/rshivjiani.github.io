@@ -8,7 +8,7 @@ About 7 weeks ago, Steve Marriucci said on NFL network "We will find out who wil
 This was rough day for the 'Skins, starting with a bus crash earlier today and the Native American protest to change the name.
 
 Logan Paulsen and Ryan Clark both left and came back in the game feeling good. They both are okay.
-
+<!--more-->
 Keenan Robinson: The captain of the defense got a muscle spasm from the bus crash today, and was bothering him a little during the game.
 
 The Vikings played a good game, mainly led by Teddy Bridgewater and Matt Asiata in the second half. Bridgewater finish the game with 26 comp, and 268 yards passing. Matt Asiata finished the game with fire in the second half with 3 TD's in today's game.

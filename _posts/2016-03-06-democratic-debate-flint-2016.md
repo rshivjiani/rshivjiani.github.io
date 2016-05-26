@@ -17,6 +17,8 @@ Tonight is the Democratic debate in Flint, Michigan. Flint, Michigan is also the
   - ***If CNN is not part of your TV subscription, don't fret. CNN will have a live stream on their website, CNN.com.***
 - **CANDIDATES PARTICIPATING:** SEN. Bernie Sanders and Secretary of State Hillary Clinton
 
+<!--more-->
+
 ### ISSUE TALK
 
 Many issues will be discussed tonight, like always. Although, one issue will be the core of tonight's debate.

@@ -5,8 +5,9 @@ layout: post
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
-___________________________________
 
+___________________________________
+## **PRIMARY CALENDAR & INFORMATION**
 
 ## REPUBLICANS
 
@@ -136,10 +137,15 @@ ________________________________________________________________
 - 2016–05–03: VOTE – Indiana
   - **INDIANA WINNERS:** Donald Trump (GOP), Bernie Sanders (D)
 - 2016–05–07: VOTE – Guam
-  - **GUAM WINNERS:**
+  - **GUAM WINNERS:** Donald Trump (GOP), Hillary Clinton (D)
 - 2016–05–10: VOTE – Nebraska (GOP), West Virginia
+  - **NEBRASKA WINNER:** Donald Trump (GOP)
+  - **WEST VIRGINIA:** Donald Trump (GOP), Bernie Sanders (D)
 - 2016–05–17: VOTE – Kentucky (D), Oregon
+  - **KENTUCKY WINNER:** Hillary Clinton (D)
+  - **OREGON WINNERS:** Donald Trump (GOP), Bernie Sanders (D)
 - 2016–05–24: VOTE – Washington
+  - **WASHINGTON WINNERS:** Donald Trump (GOP), Bernie Sanders (D)
 - 2016–06–04: VOTE – Virgin Islands (D)
 - 2016–06–05: VOTE – Puerto Rico (D)
 - 2016–06–07: VOTE – California, Montana, New Jersey, New Mexico, North Dakota, South Dakota
@@ -149,18 +155,27 @@ _____________________________________
 ### **TOTAL DELEGATES (INCLUDING SUPERDELEGATES [D])**
 
 ##### **SOURCE: CNNPolitics.com**
+#### Last Updated: May 26, 2016
 
 #### REPUBLICANS - 1, 237 needed to win
-- **DONALD TRUMP:** 758 DELEGATES
-- **TED CRUZ:** 553 DELEGATES
-- **JOHN KASICH:** 145 DELEGATES
+
+- **DONALD TRUMP:** 1,238 DELEGATES **(CLINCHED NOMINATION)**
+- <s> **TED CRUZ:** 563 DELEGATES </s>
+- <s> **MARCO RUBIO:** 167 DELEGATES </s>
+- <s> **JOHN KASICH:** 161 DELEGATES </s>
+- <s> **BEN CARSON:** 7 DELEGATES </s>
+- <s> **JEB BUSH:** 1 DELEGATE </s>
+- <s> **CARLY FIORINA:** 1 DELEGATE </s>
+- <s> **MIKE HUCKABEE:** 1 DELEGATE </s>
+- <s> **RAND PAUL:** 1 DELEGATE </s>
 
 #### DEMOCRATS - 2, 383 needed to win.
 - **HILLARY CLINTON:** 1, 791 DELEGATES
 - **BERNIE SANDERS:** 1, 115 DELEGATES
 
+-------------------------------
 
-
+## **GENERAL ELECTION INFORMATION**
 ### **IMPORTANT GENERAL ELECTION DATES**
 
 - 2016–07–18: CONVENTION – Start of Republican convention (Cleveland, OH)
@@ -173,15 +188,21 @@ _____________________________________
 - 2016–10–19: DEBATE – 3rd general election debate
 - 2016–11–08: VOTE – Election day!
 
+-------------------------------
+
 
 ### **SOURCES AND IMPORTANT WEBSITES for ELECTION 2016**
 
-- [Super Tuesday Preview!](https://usfrenzy.tumblr.com/post/140275950260/is-momentum-enough-super-tuesday-preview)
+- [Miami Republican Debate Preview](http://rshivjiani.github.io/2016/03/miami-gop-debate-2016)
+- [Miami Democratic Debate Preview](http://rshivjiani.github.io/2016/03/miami-democratic-debate-2016)
+- [Flint Michigan Democratic Debate Preview](http://rshivjiani.github.io/2016/03/democratic-debate-flint-2016)
+- [Super Tuesday Preview!](http://rshivjiani.github.io/2016/03/is-momentum-enough-super-tuesday-preview)
 - [RaviUdeshi.com](raviudeshi.com)
     - [RaviUdeshi.com - Election Calendar 2016](http://raviudeshi.com/2016/02/2016-election-calendar)
 - [Vox](vox.com)
     - [Caucuses Explained - Vox](http://www.vox.com/cards/iowa-caucus-2016-polls/what-are-the-iowa-caucuses)
     - [Primaries Explained - Vox](http://www.vox.com/a/presidential-primaries-2016-republican-democrat/presidential-primaries-explained)
+    - [Contested Convention Explained](http://www.vox.com/cards/brokered-convention-contested-explained)
 - [FiveThirtyEight](fivethirtyeight.com)
 - [CNN Politics](http://www.cnn.com/politics)
 
