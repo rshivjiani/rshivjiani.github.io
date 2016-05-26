@@ -160,14 +160,14 @@ _____________________________________
 #### REPUBLICANS - 1, 237 needed to win
 
 - **DONALD TRUMP:** 1,238 DELEGATES **(CLINCHED NOMINATION)**
-- <s>**TED CRUZ:** 563 DELEGATES </s>
-- <s>**MARCO RUBIO:** 167 DELEGATES </s>
-- <s>**JOHN KASICH:** 161 DELEGATES </s>
-- <s>**BEN CARSON:** 7 DELEGATES </s>
-- <s>**JEB BUSH:** 1 DELEGATE </s>
-- <s>**CARLY FIORINA:** 1 DELEGATE </s>
-- <s>**MIKE HUCKABEE:** 1 DELEGATE </s>
-- <s>**RAND PAUL:** 1 DELEGATE </s>
+- <s> TED CRUZ: 563 DELEGATES </s>
+- <s> MARCO RUBIO: 167 DELEGATES </s>
+- <s> JOHN KASICH: 161 DELEGATES </s>
+- <s> BEN CARSON: 7 DELEGATES </s>
+- <s> JEB BUSH: 1 DELEGATE </s>
+- <s> CARLY FIORINA: 1 DELEGATE </s>
+- <s> MIKE HUCKABEE: 1 DELEGATE </s>
+- <s> RAND PAUL: 1 DELEGATE </s>
 
 #### DEMOCRATS - 2, 383 needed to win.
 - **HILLARY CLINTON:** 1, 791 DELEGATES
