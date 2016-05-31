@@ -5,9 +5,11 @@ layout: post
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
+* TOC
 {:toc}
 
  <!--more-->
+
 ___________________________________
 
 ## **PRIMARY CALENDAR & INFORMATION**
@@ -15,8 +17,6 @@ ___________________________________
 ## REPUBLICANS
 
 ### **REPUBLICAN DEBATES**
-
-<!--more-->
 
 - 2015–08–06: DEBATE – 1st Republican primary debate (Fox News) *(Cleveland, Ohio)* -  **COMPLETED**
 - 2015–09–16: DEBATE – 2nd Republican primary debate (CNN) *(Simi Valley, California)* -  **COMPLETED**
