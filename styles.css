@@ -250,6 +250,22 @@ footer.footer {
   border-top: .5rem solid lightpink;
 }
 
+footer.footer a {
+    color: #464646;
+    border-bottom: 1px dotted;
+}
+
+.jump-to-top a {
+    display: block;
+    background: #333;
+    color: #111;
+    font-size: 1rem;
+    width: 1.5rem;
+    height: 1.1rem;
+    border-radius: 5px;
+    border: 1px solid;
+    margin: 0.75rem auto 0;
+}
 
 html {
   font-family: "Segoe UI", Avenir,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue",Arial,sans-serif;;
