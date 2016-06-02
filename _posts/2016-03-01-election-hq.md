@@ -5,8 +5,7 @@ layout: post
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
-* TOC
-{:toc}
+**Shortcuts:** *[Primary Calendar & Information](#primary-calendar--information) / [Republicans](#republicans) / [Republican Debates](#republican-debates) / [Republican Forums & Town Halls](#republican-forums-and-town-halls) / [Democrats](#democrats) / [Democratic Debates](#democratic-debates) / [Democratic Forums and Town Halls](#democratic-forums-and-town-halls) / [Primary & Caucuses Dates](#primary--caucus-dates) / [Delegate Counter](#delegate-counter-including-superdelegates-d) / [General Election Information](general-election-information) / [Important General Election Dates](important-general-election-dates) / [Sources & Important Websites](sources-and-important-websites-for-election-2016)*
 
  <!--more-->
 
@@ -16,7 +15,7 @@ ___________________________________
 
 ## REPUBLICANS
 
-### **REPUBLICAN DEBATES**
+### REPUBLICAN DEBATES
 
 - 2015–08–06: DEBATE – 1st Republican primary debate (Fox News) *(Cleveland, Ohio)* -  **COMPLETED**
 - 2015–09–16: DEBATE – 2nd Republican primary debate (CNN) *(Simi Valley, California)* -  **COMPLETED**
@@ -32,7 +31,7 @@ ___________________________________
 - 2016–03–10: DEBATE – 12th Republican primary debate (CNN) *(Miami, Florida)* - **COMPLETED**
 - 2016–03–21: DEBATE – 13th Republican primary debate (TBD) *(Salt Lake City, Utah)* - **CANCELED**
 
-### **REPUBLICAN FORUMS AND TOWN HALLS**
+### REPUBLICAN FORUMS AND TOWN HALLS
 
 - 2015–08–03: FORUM – Voters First Forum – Republicans (C-SPAN) *(Goffstown, New Hampshire)* - **COMPLETED**
 - 2015–11–20: FORUM – Presidential Family Forum – Republicans *(Des Moines, Iowa)* - **COMPLETED**
@@ -46,7 +45,7 @@ ________________________________________________________________
 
 ## DEMOCRATS
 
-### **DEMOCRATIC DEBATES**
+### DEMOCRATIC DEBATES
 
 - 2015–10–13: DEBATE – 1st Democratic primary debate (CNN) *(Las Vegas, Nevada)* - **COMPLETED**
 - 2015–11–14: DEBATE – 2nd Democratic primary debate (CBS) *(Des Moines, Iowa)* - **COMPLETED**
@@ -57,7 +56,7 @@ ________________________________________________________________
 - 2016–03–06: DEBATE – 7th Democratic primary debate (CNN) *(Flint, Michigan)* - **COMPLETED**
 - 2016–03–09: DEBATE – 8th Democratic primary debate (Univision, CNN) -  *(Miami, Florida)* - **COMPLETED**
 
-### **DEMOCRATIC FORUMS AND TOWN HALLS**
+### DEMOCRATIC FORUMS AND TOWN HALLS
 
 - 2015–11–06: FORUM – First in the South Democratic Candidates Forum (MSNBC) *(Rock Hill, South Carolina)* -  **COMPLETED**
 - 2015–11–24: FORUM – MoveOn Democratic Forum (MoveOn.org) *(VIRTUAL)* -  **COMPLETED**
@@ -66,7 +65,7 @@ ________________________________________________________________
 - 2016–02–03: FORUM – New Hampshire Democratic Town Hall (CNN) *(Derry, New Hampshire)* - **COMPLETED**
 - 2016–02–23: FORUM – South Carolina Democratic Town Hall (CNN) *(Columbia, South Carolina)* - **COMPLETED**
 
-### **PRIMARY & CAUCUS DATES**
+### PRIMARY & CAUCUS DATES
 
 - 2016–02–01: VOTE – Iowa (first caucus!)
   - **IOWA WINNERS:** Ted Cruz (GOP), Hillary Clinton (D)
@@ -157,7 +156,7 @@ ________________________________________________________________
 
 _____________________________________
 
-### **DELEGATE COUNTER (INCLUDING SUPERDELEGATES [D])**
+### DELEGATE COUNTER (INCLUDING SUPERDELEGATES [D])
 
 ##### **SOURCE: CNNPolitics.com**
 
@@ -183,7 +182,7 @@ _____________________________________
 
 ## **GENERAL ELECTION INFORMATION**
 
-### **IMPORTANT GENERAL ELECTION DATES**
+### IMPORTANT GENERAL ELECTION DATES
 
 - 2016–07–18: CONVENTION – Start of Republican convention (Cleveland, OH)
 - 2016–07–21: CONVENTION – End of Republican convention (Cleveland, OH)
@@ -198,7 +197,7 @@ _____________________________________
 -------------------------------
 
 
-### **SOURCES AND IMPORTANT WEBSITES for ELECTION 2016**
+### SOURCES AND IMPORTANT WEBSITES for ELECTION 2016**
 
 - [Miami Republican Debate Preview](http://rshivjiani.github.io/2016/03/miami-gop-debate-2016)
 - [Miami Democratic Debate Preview](http://rshivjiani.github.io/2016/03/miami-democratic-debate-2016)
