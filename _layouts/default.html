@@ -1,40 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    <div class="wrapper">
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          
-          <!--  <small>{{ site.tagline }}</small> -->
-          <!-- add list of pages in header -->
-          <span id="header-menu">
+  <div class="wrapper">
+    <header class="masthead">
+      <h3 class="masthead-title">
+        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+
+        <!--  <small>{{ site.tagline }}</small> -->
+        <!-- add list of pages in header -->
+        <span id="header-menu">
           {% for page in site.pages_list %}
           <small><a href="{{ site.baseurl }}{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-          </span>
-          <!-- end list -->
+        </span>
+        <!-- end list -->
 
-        </h3>
-      </header>
+      </h3>
+    </header>
 
-      <main>
-        {{ content }}
-      </main>
+    <main>
+      {{ content }}
+    </main>
 
-      <footer class="footer">
-        <small>
-        &copy; All rights reserved. Powered by Jekyll.
+    <footer class="footer">
+      <small>
+        <p>&copy; 2012-{{ site.time | date: '%Y' }}</time>. All rights reserved.</p>
         <br/><br/>
-        <span style="color:#fcfcfc">{{ site.time | date: "%a %I:%M:%S" }}</span>
-        </small>
-        <!-- Liquid time tags: https://docs.shopify.com/themes/liquid/filters/additional-filters -->
-      </footer>
-    </div>
 
-  </body>
+        <p>
+          <span> Stacked with <a href="http://jekyllrb.com/">Jekyll</a></span>
+          <span> &middot; </span>
+          <span title="{{ site.time | date: "%c" }}">Rev {{ site.time | date: "%a" | truncate:1,'' | upcase }}{{ site.time | date: "%I%M" }}</span>
+          <span> &middot; </span>
+          <span><a href="http://github.com/rshivjiani/rshivjiani.github.io/">Source</a></span>
+        </p>
+      </small>
+      <!-- Liquid time tags: https://docs.shopify.com/themes/liquid/filters/additional-filters -->
+
+      <div class="jump-to-top">
+               <a href="#top">&#8593;</a>
+             </div>
+
+    </footer>
+  </div>
+
+</body>
 </html>
