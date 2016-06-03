@@ -5,7 +5,7 @@ layout: post
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]
 
-**Shortcuts:** *[Primary Calendar & Information](#primary-calendar--information) / [Republicans](#republicans) / [Republican Debates](#republican-debates) / [Republican Forums & Town Halls](#republican-forums-and-town-halls) / [Democrats](#democrats) / [Democratic Debates](#democratic-debates) / [Democratic Forums and Town Halls](#democratic-forums-and-town-halls) / [Primary & Caucuses Dates](#primary--caucus-dates) / [Delegate Counter](#delegate-counter-including-superdelegates-d) / [General Election Information](general-election-information) / [Important General Election Dates](important-general-election-dates) / [Sources & Important Websites](sources-and-important-websites-for-election-2016)*
+**Shortcuts:** *[Primary Calendar & Information](#primary-calendar--information) / [Republicans](#republicans) / [Republican Debates](#republican-debates) / [Republican Forums & Town Halls](#republican-forums-and-town-halls) / [Democrats](#democrats) / [Democratic Debates](#democratic-debates) / [Democratic Forums and Town Halls](#democratic-forums-and-town-halls) / [Primary & Caucuses Dates](#primary--caucus-dates) / [Delegate Counter](#delegate-counter-including-superdelegates-d) / [General Election Information](#general-election-information) / [Important General Election Dates](#important-general-election-dates) / [Sources & Important Websites](#sources-and-important-websites-for-election-2016)*
 
  <!--more-->
 
