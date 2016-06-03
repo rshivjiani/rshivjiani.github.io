@@ -143,6 +143,23 @@ hr {
   width: 50%;
 }
 
+.read-more {
+    display: block;
+    width: 7rem;
+    margin: auto;
+    padding: 0.2rem;
+    border: 1px solid cornflowerblue;
+    text-align: center;
+    background: cornflowerblue;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+}
+
+.read-more a {
+    color: inherit;
+    text-shadow: 0 0 10px #999;
+}
 
 article.page {
   margin-top: 3rem;
