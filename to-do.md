@@ -1,4 +1,5 @@
 ---
+title: To-Do list
 layout: page
 permalink: /todo
 ---
