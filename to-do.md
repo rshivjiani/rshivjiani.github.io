@@ -4,8 +4,6 @@ layout: page
 permalink: /todo
 ---
 
-# To-do list for blog
-
 ### Post-related
 
 #### Add these posts (short posts)
