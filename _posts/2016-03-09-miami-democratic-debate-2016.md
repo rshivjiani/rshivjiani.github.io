@@ -19,6 +19,7 @@ This debate is going to be like non other. This debate is going to matter severe
 - **CANDIDATES PARTICIPATING:** SEN. Bernie Sanders (I-VT) and Secretary of State Hillary Clinton
 - **MODERATORS:** Karen Tumulty of the Washington Post and Maria Elena Salinas and Jorge Ramos of Univision.
 <!--more-->
+
 ### ISSUE TALK
 
 Many issues will be discussed in tonight's debate, like always. Although, one issue would be the core of this debate.
