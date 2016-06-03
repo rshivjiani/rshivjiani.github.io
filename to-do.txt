@@ -1,3 +1,7 @@
+---
+permalink: /todo
+---
+
 # To-do list for blog
 
 ### Post-related
