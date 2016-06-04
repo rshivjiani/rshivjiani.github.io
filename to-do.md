@@ -59,3 +59,18 @@ permalink: /todo
 - Fix older, newer links.
 - Edit page meta information
 - Add background colors depending on backgrounds.
+- Add email subscription box-shadow
+- Add submenu to header
+- Add analytics?
+- Fix link in RSS feed.
+
+---
+
+### Changelog
+
+- 2016-06-03: Added/Styled Read More Button
+- 2016-06-03: Added todo list/changelog to site!
+- 2016-06-03: Changed email for GitHub Desktop (Ask Ravi Bhai)
+- 2016-06-02: Added shortcuts to [Election HQ](/2016/03/election-hq/).
+- 2016-05: Added older posts
+- 2016-05:
