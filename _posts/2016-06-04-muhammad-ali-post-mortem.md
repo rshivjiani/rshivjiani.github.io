@@ -5,6 +5,8 @@ layout: post
 
 Two days ago, we lost amazing boxer named Muhammad Ali. He died Friday late night after he was hospitalized the day before. America lost a man that not only dominated the world of boxing, but inspired us to be "the Greatest" and that "Impossible is Nothing." So let's take a break from politics, and remember this amazing sports icon.
 
+<!--more-->
+
 | Year | Event |
 | ---- | ----- |
 | 1942 | Ali was born Cassius Marcellus Clay Jr., on January 17 in Louisville, KY. He was born to Odessa and Cassius Sr. |
