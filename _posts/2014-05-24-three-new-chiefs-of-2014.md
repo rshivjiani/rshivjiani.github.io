@@ -1,6 +1,7 @@
 ---
 title: "The 3 New Kansas City Chiefs of 2014"
 layout: post
+category: sports
 ---
 
 The Draft has passed and teams have given out their projected starters for 2014. When reading the projected on NFL.com, I thought that there could be 3 teams that could be the 2014 Kansas City Chiefs. The 3 teams that are the "turnaround" teams are ...

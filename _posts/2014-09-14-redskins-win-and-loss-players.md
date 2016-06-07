@@ -1,6 +1,7 @@
 ---
 title: Redskins Win! But Loss of Players...
 layout: post
+category: sports
 ---
 
 I know I have not blogged for a while, but I'm still here.

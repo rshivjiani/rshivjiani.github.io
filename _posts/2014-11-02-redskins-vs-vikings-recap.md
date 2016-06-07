@@ -1,6 +1,7 @@
 ---
 title: "Redskins Recap: Teddy Went to the Touchdown Bridge with his Friend Matt Asiata"
 layout: post
+category: sports
 ---
 
 About 7 weeks ago, Steve Marriucci said on NFL network "We will find out who will be the starter as soon as RG3 plays in his first game coming back from the injury." Griffin only had 1 INT in the game, and played with fire in the first half, but failed to execute 3rd down conversions, and those miscues really costed them the game.
