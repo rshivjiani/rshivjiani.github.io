@@ -19,7 +19,9 @@ permalink: /archives
 ---
 
 {% comment%}
+=================
 Here we generate all the categories.
+=================
 {% endcomment%}
 
 {% assign rawcats = "" %}
@@ -29,7 +31,6 @@ Here we generate all the categories.
 {% endfor %}
 
 {% assign rawcats = rawcats | split:'|' | sort %}
-
 {% assign cats = "" %}
 
 {% for cat in rawcats %}
