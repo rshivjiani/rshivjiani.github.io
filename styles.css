@@ -89,6 +89,17 @@ h1.post-title a {
   line-height: 1.5;
 }
 
+h1.category-politics a {
+    background: crimson;
+    color: whitesmoke;
+}
+
+h1.category-politics a:after {
+    content: "politics";
+    opacity: 0.3;
+    float: right;
+}
+
 time.post-date {
   margin-bottom: 1rem;
   display: block;
