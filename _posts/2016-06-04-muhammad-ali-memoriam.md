@@ -2,6 +2,12 @@
 title: "Float Like a Butterfly, Sting Like a Bee!: The Post-Mortem of the Greatest"
 layout: post
 category: sports
+subhed: breaking news
+tags:
+- breaking news
+- Muhammad Ali
+- boxing
+- deaths
 ---
 
 Two days ago, we lost amazing boxer named Muhammad Ali. He died Friday late night after he was hospitalized the day before. America lost a man that not only dominated the world of boxing, but inspired us to be "the Greatest" and that "Impossible is Nothing." So let's take a break from politics, and remember this amazing sports icon.
@@ -25,6 +31,8 @@ Two days ago, we lost amazing boxer named Muhammad Ali. He died Friday late nigh
 | 1996 | Ali carries the Olympic torch and ignites the cauldron in the beginning of the Summer Olympics in Atlanta. He is also given a second gold medal that he won in 1960 and threw in the Ohio River due to anger. |
 | 2016 | Ali dies of septic shock at the age of 74. |
 
+I got this timeline from [infoplease.com](http://www.infoplease.com/spot/malitimeline1.html)
+
 Muhammad Ali's funeral will be held Friday, June 10th, at his hometown in Louisville. Bill Clinton, Billy Crystal, and Bryant Gumbel will be eulogists at Ali's funeral.
 
-There's nothing left to say but to say Rest in Peace, Mr. Greatest of All Time. Remember, Impossible is nothing...
+There's nothing left to say but to say Rest in Peace, Mr. Greatest of All Time. Remember, Impossible is Nothing...
