@@ -94,7 +94,7 @@ h1.category-politics a {
     color: whitesmoke;
 }
 
-h1.category-politics a:after {
+h1.category-politics a::after {
     content: "politics";
     opacity: 0.3;
     float: right;
