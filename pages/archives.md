@@ -55,43 +55,27 @@ Here we generate all the categories.
 </ul>
 
 {% for ct in cats %}
-<h2 id="{{ ct | slugify }}">{{ ct }}</h2>
-<ul class="codinfox-category-list">
-  {% for post in site.posts %}
-  {% if post.category contains ct %}
-  <li>
-    <h3>
-      <a href="{{ post.url }}">
-        {{ post.title }}
+<h4 id="{{ ct | slugify }}">{{ ct }}</h4>
+<ul>
+    {% for post in site.posts %}
+        {% if post.category contains ct %}
+        <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
         <small>{{ post.date | date_to_string }}</small>
-      </a>
-      {% for tag in post.tags %}
-      <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
-    </h3>
-  </li>
-  {% endif %}
-  {% endfor %}
+        </li>
+        {% endif %}
+    {% endfor %}
 </ul>
 {% endfor %}
 
-<h2 id="no-category">No Category</h2>
-<ul class="codinfox-category-list">
-  {% for post in site.posts %}
-  {% unless post.category %}
-  <li>
-    <h3>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        <small>{{ post.date | date_to_string }}</small>
-      </a>
-      {% for tag in post.tags %}
-      <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
-    </h3>
-  </li>
-  {% endunless %}
-  {% endfor %}
+<h4 id="no-category">No category</h4>
+<ul>
+    {% for post in site.posts %}
+        {% unless post.category %}
+            <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <small>{{ post.date | date_to_string }}</small>
+            </li>
+        {% endunless %}
+    {% endfor %}
 </ul>
-
-</div>
