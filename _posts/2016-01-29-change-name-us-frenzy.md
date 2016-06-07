@@ -1,6 +1,7 @@
 ---
 title: "We Have Big News!"
 layout: post
+category: sports
 ---
 
 Hello! After almost 2 years of blogging for NFL Frenzy, we have decided to do something big. Something that will improve this blog, and something that many other people will love. For the past two years, I have been blogging about the latest NFL news, and it has been great ride. Although, I have always wanted to blog about something else other than football, like politics (ahem... Donald Trump). Over the years, I have gained new interests. So, as of today, we are changing our name to...

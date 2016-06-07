@@ -1,6 +1,7 @@
 ---
 title: "Float Like a Butterfly, Sting Like a Bee!: The Post-Mortem of the Greatest"
 layout: post
+category: sports
 ---
 
 Two days ago, we lost amazing boxer named Muhammad Ali. He died Friday late night after he was hospitalized the day before. America lost a man that not only dominated the world of boxing, but inspired us to be "the Greatest" and that "Impossible is Nothing." So let's take a break from politics, and remember this amazing sports icon.

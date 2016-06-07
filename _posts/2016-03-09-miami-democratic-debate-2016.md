@@ -1,6 +1,7 @@
 ---
 title: "Miami Democratic Debate Preview: The How To's and What to Expect"
 layout: post
+category: politics
 ---
 
 This debate is going to be like non other. This debate is going to matter severely for both candidates. This debate is going to be...  good. In this article, I will talk about how to watch the debate, the airing information about the debate, and what will we see tonight.

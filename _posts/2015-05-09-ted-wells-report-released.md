@@ -1,6 +1,7 @@
 ---
 title: "The Suspect Just Got Deflated!"
 layout: post
+category: sports
 ---
 
 Well, as some of you know, the Ted Wells Report has been deflated. It has said that some of the New England Patriots team, including QB Tom Brady, was ‘generally aware’ of the deflated footballs in the 2015 AFC Championship game against the Colts. Report shows that QB Tom Brady will be suspended by Roger Goodell next week.

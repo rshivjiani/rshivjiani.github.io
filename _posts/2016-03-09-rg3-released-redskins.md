@@ -1,6 +1,7 @@
 ---
 title: "Where Will He Go Next?: RG3 Released From the Redskins"
 layout: post
+category: sports
 ---
 
 Well, it finally happened. Quarterback **Robert Griffin III** was released by the Redskins on Monday morning. This happened not long after Kirk Cousins was resigned by the Redskins. Kirk Cousins was resigned last Thursday for a whopping one year, 19.95 million dollar contract. Many people saw this coming after the season ended, but the question is, where will he go next?

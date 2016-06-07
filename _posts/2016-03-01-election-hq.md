@@ -1,6 +1,7 @@
 ---
 title: "Election 2016 Headquarters!"
 layout: post
+category: politics
 ---
 
 Welcome to the U.S Frenzy's Election 2016 HQ. In here, you will find all the key info for this year's race. Here are all the debate dates, voting dates, and important websites to read other than this for this election: [^1]

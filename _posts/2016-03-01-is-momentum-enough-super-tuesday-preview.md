@@ -1,6 +1,7 @@
 ---
 title: "Is Momentum Enough: Super Tuesday Preview"
 layout: post
+category: politics
 ---
 
 Throughout this election, we have seen much talk about momentum. Republican presidential candidate, Marco Rubio, and Democratic presidential candidate, Bernie Sanders, are in the center of the conversation when it comes to momentum. When I watch CNN, the panel of political commentators always talk about 'this' candidate (usually Marco Rubio) is coming out of this part of the election strong, and they might do better next time.

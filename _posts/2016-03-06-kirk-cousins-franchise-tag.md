@@ -1,6 +1,7 @@
 ---
 title: "The Relief Week for the DMV!"
 layout: post
+category: sports
 ---
 
 This week was a relief week for Kirk Cousins, the Redskins organization, and the Redskins fan base. Super Tuesday was not only super for Donald Trump, it was super for Kirk Cousins. The Redskins announced at about one o'clock on Tuesday that they will non-exclusively tag Kirk Cousins, and got a huge payload to go with it. Cousins signed the contract on Thursday. The contract guarantees a 19.95 million dollars for one year. It is a little more than the Redskins wanted to give, but at the end of the day, you got a good quarterback that can save your team.
