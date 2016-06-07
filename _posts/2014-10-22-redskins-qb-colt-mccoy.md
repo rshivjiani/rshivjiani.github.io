@@ -1,7 +1,7 @@
 ---
 title: "Outrage!"
 layout: post
-layout: sports
+category: sports
 ---
 
 **This is an outrage, seriously**.
