@@ -47,11 +47,12 @@ Here we generate all the categories.
 
 #### Categories
 
+<ul>
 {% for ct in cats %}
-* [{{ ct }}](#{{ ct | slugify }})
+<li><a href="#{{ ct | slugify }}">{{ ct }}</a></li>
 {% endfor %}
-* [No category](#no-category)
-
+<li><a href="#no-category">No category</a></li>
+</ul>
 
 {% for ct in cats %}
 <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
