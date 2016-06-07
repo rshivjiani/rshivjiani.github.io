@@ -76,7 +76,6 @@ h1.post-title {
   margin-bottom: 0.5rem;
   padding: 1rem;
   line-height: 1.5;
-  position: relative;
 }
 
 h1.post-title a {
@@ -99,12 +98,6 @@ h1.category-politics a:after {
     content: "politics";
     opacity: 0.3;
     float: right;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    margin-bottom: -0.7rem;
-    margin-right: 0.2rem;
-    font-size: smaller;
 }
 
 time.post-date {
