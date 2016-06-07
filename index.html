@@ -18,6 +18,10 @@ title: "The Frenzy"
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
       <span> / </span>
       <a href="https://raw.githubusercontent.com/{{ site.github.repository_nwo }}/master/{{ post.path }}">M&#8595;</a>
+      {% if post.category %}
+      <span> / </span>
+      <span>{{ post.category }}</span>
+      {% endif % }
     </div>
 
     <div class="post-content-truncate">
