@@ -1,6 +1,7 @@
 ---
 title: "Bruce Allen Said it All!"
 layout: post
+category: sports
 ---
 
 Everybody knows about the controversy of changing the Redskins name. Citizens to Lawmakers have been urging to change the name. But whenever they tell the Daniel Snyder to change the name, what's Daniel's answer? No. It has been a confident and simple no for him.
