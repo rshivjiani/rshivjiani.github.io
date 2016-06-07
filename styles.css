@@ -107,6 +107,23 @@ h1.category-politics a::after {
     font-size: smaller;
 }
 
+h1.category-sports a {
+    background: brown;
+    color: whitesmoke;
+}
+
+h1.category-sports a::after {
+    content: "sports";
+    opacity: 0.3;
+    float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: -0.7rem;
+    margin-right: 0.2rem;
+    font-size: smaller;
+}
+
 time.post-date {
   margin-bottom: 1rem;
   display: block;
