@@ -46,7 +46,7 @@ Here we generate all the categories.
 {% endfor %}
 
 
-#### Categories
+### Categories
 
 {% comment %}
 <ul>
