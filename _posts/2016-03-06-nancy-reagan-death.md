@@ -1,7 +1,7 @@
 ---
 title: "Nancy Reagan: (July 6, 1921 - March 6, 2016)"
 layout: post
-category: politics
+category: memoriam
 ---
 
 #### "There's a big, wonderful world out there for you. It belongs to you. It's exciting and stimulating and rewarding. Don't cheat yourselves out of this promise." ***- NANCY REAGAN***

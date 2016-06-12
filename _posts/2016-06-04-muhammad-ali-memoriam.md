@@ -1,7 +1,7 @@
 ---
 title: "Float Like a Butterfly, Sting Like a Bee!: The Post-Mortem of the Greatest"
 layout: post
-category: sports
+category: memoriam
 subhed: breaking news
 tags:
 - breaking news
