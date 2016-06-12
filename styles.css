@@ -85,22 +85,29 @@ h1.post-title a {
   display: block;
   text-decoration: none;
   background: cornflowerblue;
-  color: white;
+  color: whitesmoke;
   margin: -1rem;
   margin-bottom: -1.5rem;
   padding: 1rem;
   line-height: 1.5;
 }
 
-h1.category-politics a {
-    background: crimson;
-    color: whitesmoke;
+.post-category {
+    float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: -0.7rem;
+    margin-right: 0.2rem;
+    font-size: smaller;
+    opacity: 0.3;
 }
 
-h1.category-sports a {
-    background: brown;
-    color: whitesmoke;
-}
+h1.category-politics a { background: crimson; }
+h1.category-sports a   { background: brown; }
+h1.category-breaking-news a { background: yellow; }
+h1.category-memoriam a {background: black}
+
 
 time.post-date {
   margin-bottom: 1rem;
