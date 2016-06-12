@@ -18,11 +18,11 @@ permalink: /archives
 
 ---
 
-{% comment%}
+{% comment %}
 =================
 Here we generate all the categories.
 =================
-{% endcomment%}
+{% endcomment %}
 
 {% assign rawcats = "" %}
 {% for post in site.posts %}
@@ -46,14 +46,17 @@ Here we generate all the categories.
 {% endfor %}
 
 
-#### Categories
+### Categories
 
+{% comment %}
 <ul>
 {% for ct in cats %}
 <li><a href="#{{ ct | slugify }}">{{ ct }}</a></li>
 {% endfor %}
 <li><a href="#no-category">No category</a></li>
 </ul>
+{% endcomment %}
+
 
 {% for ct in cats %}
 <h4 id="{{ ct | slugify }}">{{ ct }}</h4>
@@ -69,6 +72,7 @@ Here we generate all the categories.
 </ul>
 {% endfor %}
 
+{% comment %}
 <h4 id="no-category">No category</h4>
 <ul>
     {% for post in site.posts %}
@@ -80,3 +84,4 @@ Here we generate all the categories.
         {% endunless %}
     {% endfor %}
 </ul>
+{% endcomment %}
