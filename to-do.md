@@ -53,6 +53,7 @@ permalink: /todo
 - Add pages!
 - Change email for GitHub Desktop (Ask Ravi Bhai)
 - Add RSS feed
+  - Create FeedBurner account.
 - Add Tweetbot
 - And emoji plugin for blog
 - Add shortcuts inside posts
@@ -63,6 +64,7 @@ permalink: /todo
 - Add submenu to header
 - Add analytics?
 - Fix link in RSS feed.
+- Add sticky footer using flexbox.
 
 ---
 
