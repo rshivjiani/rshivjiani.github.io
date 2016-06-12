@@ -3,8 +3,8 @@ permalink:           /:year/:month/:title
 
 # Setup
 title:               "The Frenzy"
-tagline:             ""
-url:                 https://rshivjiani.github.io
+tagline:             "Home for the latest news!"
+url:                 http://rahil.shivjiani.com
 paginate:            10
 baseurl:             ""
 analytics_id:        ""
@@ -12,7 +12,7 @@ analytics_id:        ""
 # About/contact
 author:
   name:              "R Shivjiani"
-  url:               https://rahil.shivjiani.com
+  url:               http://rahil.shivjiani.com
   email:             ""
 
 # Gems
