@@ -65,6 +65,7 @@ permalink: /todo
 - Add analytics?
 - Fix link in RSS feed.
 - Add sticky footer using flexbox.
+- Work on logo.
 
 ---
 
