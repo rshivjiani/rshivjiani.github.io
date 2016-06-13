@@ -103,10 +103,16 @@ h1.post-title a {
   opacity: 0.3;
 }
 
+h1.category-politics        { background: crimson; }
 h1.category-politics a      { background: crimson; }
+h1.category-sports          { background: brown; }
 h1.category-sports a        { background: brown; }
+h1.category-breaking-news   { background: chocolate; }
 h1.category-breaking-news a { background: chocolate; }
+h1.category-memoriam        { background: #555; }
 h1.category-memoriam a      { background: #555; }
+h1.category-tech            {background: #494b6b; }
+h1.category-tech a          {background: #494b6b; }
 
 time.post-date {
   margin-bottom: 1rem;
