@@ -37,7 +37,7 @@ The iOS 10 leaks sound promising. But, there are only a couple of leaks, accordi
 
 *This is amazing. Ever since the App Store was launched not long after the iPhone came out, everyone knew this was revolutionizing to smartphones. We can now watch videos, play games, and also read books on our iOS devices thanks to the App Store. Now, Apple is making big changes to the App Store. Here are a few.*
 
--	Apple has opened up app subscriptions to include allows all product categories and introduced a new revenue split. You can read more about this [here](http://www.macrumors.com/2016/06/08/apple-major-app-store-changes/(http://www.macrumors.com/2016/06/08/apple-major-app-store-changes/).
+-	Apple has opened up app subscriptions to include allows all product categories and introduced a new revenue split. You can read more about this [here](http://www.macrumors.com/2016/06/08/apple-major-app-store-changes/).
 - Apple has also adding ads to the App Store search results.
 - They are also improving the Featured section. Now, apps that have already been installed won't show up. This enables a more user-friendly experience when installing apps.
 - Apple is also rumored to bring back the Categories section.
