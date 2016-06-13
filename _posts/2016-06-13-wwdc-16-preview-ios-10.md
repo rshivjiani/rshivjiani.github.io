@@ -95,13 +95,16 @@ using the app [f.lux](https://justgetflux.com/) not long before it was unveiled,
 #### The Others
 
 **Seconds function for Clock timer:**
+
 - Make timing more specific (i.e 90 seconds timer).
 
 **Complete Lockdown on Notes:**
+
 - Helps keep everything private.
 - Beat out *1Password
 
 **Siri to the Mac!!!!**
+
 - I know this is not an iOS feature, but it looks like Apple has FINALLY turned a corner. They are officially bringing Siri to the Mac. This is exiting. And to imagine, why didn't Apple think of this before. It's like Modern Warfare. You start firing bullets as soon as your enemy fires the first one[^3]. I hope that Apple does a good job on this.
 
 _______
