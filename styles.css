@@ -79,6 +79,7 @@ h1.post-title {
   padding: 1rem;
   line-height: 1.5;
   position: relative;
+  font-weight: lighter;
 }
 
 h1.post-title a {
@@ -90,6 +91,7 @@ h1.post-title a {
   margin-bottom: -1.5rem;
   padding: 1rem;
   line-height: 1.5;
+  font-weight: lighter;
 }
 
 .post-category {
