@@ -92,6 +92,11 @@ h1.post-title a {
   line-height: 1.5;
 }
 
+h1.post-title a:hover {
+    background: cornflowerblue;
+    color: lightgreen;
+}
+
 .post-category {
   float: right;
   position: absolute;
