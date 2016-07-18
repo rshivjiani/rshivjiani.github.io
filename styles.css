@@ -54,6 +54,10 @@ h3.masthead-title a {
   font-weight: 400;
 }
 
+h3.masthead-title a:hover {
+    color: lightgreen;
+}
+
 body {
   margin: 0px;
   color: #424258;
