@@ -46,6 +46,7 @@ h3.masthead-title a {
   color: #009FFF;
   text-shadow: .5px .5px .5px rgba(128, 128, 128, 0.58);
   font-size: 24px;
+  font-weight: 400;
 }
 
 body {
