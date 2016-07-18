@@ -18,6 +18,11 @@ wrapper {
   opacity: 0.5;
 }
 
+#header-menu a:hover {
+    opacity: 0.9;
+    color: yellow;
+}
+
 * {
   /* box-sizing: border-box; */
 }
