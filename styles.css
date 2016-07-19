@@ -273,7 +273,7 @@ ol {
 
 .pagination a {
   text-decoration: none;
-  background: #ffe7eb;
+  background: #e1ffe1;
   color: deepskyblue
 }
 
@@ -285,7 +285,7 @@ ol {
   padding: 1rem;
   border: solid lightgray;
   font-size: 29px;
-  background: #e1ffe1;
+  background: #ffe7eb;
 }
 
 .related {
