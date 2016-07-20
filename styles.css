@@ -214,14 +214,14 @@ td, th {
   border-radius: 30px;
 }
 
-.read-more a {
-  color: inherit;
-  text-shadow: 0 0 10px #999;
-}
-
 .read-more:hover {
     color: cornflowerblue;
     background: whitesmoke;
+}
+
+.read-more a {
+  color: inherit;
+  text-shadow: 0 0 10px #999;
 }
 
 article.page {
