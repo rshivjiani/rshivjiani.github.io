@@ -201,17 +201,6 @@ td, th {
   border: 1px solid #e5e5e5;
 }
 
-.post-fadeout {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 8rem;
-    width: 100%;
-    text-align: center;
-    background: linear-gradient(rgba(255,255,255,0), #fff);
-    pointer-events: none;
-}
-
 .read-more {
   display: block;
   width: 12rem;
