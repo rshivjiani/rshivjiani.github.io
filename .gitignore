@@ -3,3 +3,5 @@
 *.css~
 *.yml~
 _site
+_drafts
+_gitignore
