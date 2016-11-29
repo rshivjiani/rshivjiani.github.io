@@ -1,7 +1,7 @@
 // Master CSS file
 
-.alignright { float: right; }
-.alignleft { float: left; }
+img.alignright { float: right; }
+img.alignleft { float: left; }
 
 wrapper {
   max-width: 30rem;
