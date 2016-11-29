@@ -52,7 +52,7 @@ h3.masthead-title a {
   text-shadow: .5px .5px .5px rgba(128, 128, 128, 0.58);
   font-size: 24px;
   font-weight: 400;
-  font-family: 'Raleway'
+  font-family: <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 }
 
 h3.masthead-title a:hover {
@@ -90,6 +90,7 @@ h1.post-title {
   padding: 1rem;
   line-height: 1.5;
   position: relative;
+  font-variant: small-caps;
 }
 
 h1.post-title a {
@@ -101,6 +102,7 @@ h1.post-title a {
   margin-bottom: -1.5rem;
   padding: 1rem;
   line-height: 1.5;
+  font-variant: small-caps;
 }
 
 h1.post-title a:hover {
@@ -171,6 +173,7 @@ article h3 {
   color: rgba(253, 0, 255, 0.56);
   background: rgba(16, 255, 0, 0.12);
   font-weight: normal;
+  font-variant: small-caps;
 }
 
 article h4 {
