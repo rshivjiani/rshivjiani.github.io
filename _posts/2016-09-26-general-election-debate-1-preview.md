@@ -37,6 +37,7 @@ All in all, this debate, no matter who wins, will go down in the history books.
 ### Ingredients to Victory!
 
 #### Donald Trump
+
 Donald Trump has two personalities. One is the off-the-bat, no script kind of Trump. And the other one is the calm and collected Trump (a.k.a: Teleprompter Trump!). Some say he has to pick one, but does he? To all the politicos and pundits out there, there is something called compromise. Here are some ingredients to victory for the two-sided man.
 
 - Keep it controlled. What I mean by that is to don't try to make this the Comedy Central's *The Roast.* Stay focused on the issues, and hit Hillary on her standpoint on the issues.
@@ -44,6 +45,7 @@ Donald Trump has two personalities. One is the off-the-bat, no script kind of Tr
 - Scandals. Hit Clinton on the scandals. The Trump Campaign has sent out a link via. Text Message today morning asking supporters to vote on which scandal he should pound on Hillary. Whatever it may be, we will see it in the debate tonight!
 
 #### Hillary Clinton
+
 Hillary Clinton has made history. She is the first female presidential nominee, and that says a lot. ALTHOUGH, there have been many scandals against her. One to mention is her email scandal, which has been going on for months now. So, to win this debate, she has to...
 
 - Pound Trump on HIS scandals, like the Trump University case.
