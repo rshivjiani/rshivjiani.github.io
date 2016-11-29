@@ -52,6 +52,7 @@ h3.masthead-title a {
   text-shadow: .5px .5px .5px rgba(128, 128, 128, 0.58);
   font-size: 24px;
   font-weight: 400;
+  font-family: 'Raleway'
 }
 
 h3.masthead-title a:hover {
@@ -168,9 +169,17 @@ article h3 {
   text-align: center;
   font-size: 25px;
   color: rgba(253, 0, 255, 0.56);
-  font-style: oblique;
   background: rgba(16, 255, 0, 0.12);
   font-weight: normal;
+}
+
+article h4 {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0px;
+    font-variant: small-caps;
+    border-bottom: 1px dotted lightpink;
+    padding-bottom: 0px;
 }
 
 hr {
@@ -243,6 +252,7 @@ h1.page-title {
   margin-bottom: 0.5rem;
   padding: 1rem;
   line-height: 1.5;
+  font-variant: small-caps;
 }
 
 h1.page-title a {
@@ -254,6 +264,7 @@ h1.page-title a {
   margin-bottom: -1.5rem;
   padding: 1rem;
   line-height: 1.5;
+  font-variant: small-caps;
 }
 
 #header-menu small {
