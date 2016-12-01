@@ -6,7 +6,7 @@ category: politics
 
 Wow... It's been over a year since the first candidate entered the election. Since then, we have had 21 candidates eliminated, 21 debates, and 2 conventions. And tonight, we see the two candidates the people have chosen as their nominee face off on a political stage together for the first time. Although, this debate will be indeed different. It is projected to have more viewers than the record high, 80 million for Reagan v. Carter. And this showdown will have some decide who are they going to vote for this November for president. In this article, I will talk about the airing information of the debate and the ingredients to victory for both candidates.
 
-### INFORMATION DESK: FAST FACTS
+### Information Desk: Fast Facts
 
 - **DATE AND TIME:** September 26th, 2016 at 9:00 ET (6:00 PT)
 - **LOCATION:** Hofstra University in Hempstead, NY.
