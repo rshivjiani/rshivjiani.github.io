@@ -55,3 +55,5 @@ Hillary Clinton has made history. She is the first female presidential nominee, 
 ___
 
 Republican nominee, Donald Trump and Democratic nominee, Hillary Clinton are about to showdown. Let's see who comes up on top. Here are some [debate bingo cards](https://www.washingtonpost.com/news/the-fix/wp/2016/09/26/the-only-bingo-cards-you-need-for-tonights-clinton-trump-debate/) for the debate. Have fun watching!
+
+I get my Spotify from Aidan
